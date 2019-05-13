@@ -1,4 +1,5 @@
-# Development of Machine Learning-based Prediction Models for Hospital Admission Based on Prehospital Information among Patients Transferred by Ambulance in Japan
+# HAP2019: Hospital Admission Prediction 2019
+Code for a paper "Development of Machine Learning-based Prediction Models for Hospital Admission Based on Prehospital Information among Patients Transferred by Ambulance in Japan".
 
 ## Contributors
 [Kentaro Ogura](https://github.com/gragragrao) , [Toru Shirakawa](https://github.com/shirakawatoru)
