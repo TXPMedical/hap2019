@@ -11,7 +11,7 @@ Analysis codes for a development hospital admission prediction model based on pr
 Toru Shirakawa, Tomohiro Sonoo, Kentaro Ogura, et al. Development of Machine Learning-based Prediction Models for Hospital Admission Based on Prehospital Information among Patients Transferred by Ambulance in Japan. *Submitting*. 2019:xx:xxx-xxx.　
 [[pubmed](https://www.ncbi.nlm.nih.gov/pubmed/)]
 
-## Files
+## File
 - `analysis.ipynb` Code for the analysis.
 
 ## Data
